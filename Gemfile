@@ -21,7 +21,7 @@ end
 group :development do
   gem "web-console"
 end
-gem 'capistrano', '~> 3.19', '>= 3.19.1'
+gem 'capistrano', '~> 3.19'
 gem 'capistrano-rails', '~> 1.6', '>= 1.6.3'
 gem 'capistrano3-puma', github: "seuros/capistrano-puma"
 
